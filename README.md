@@ -18,5 +18,4 @@ Once this is done, processquery.py can be run on the updated index.
 
 # Why are there so many json files?
 When I created this system I was saving each step of the TF*IDF calculations as a separate file, to see if I was getting any errors. 
-Also, each part of the process is done in a separate python file - I may update the project to incorporate all code into one terminal
-command.
+Also, each part of the process is done in a separate python file, meaning I had to save various data structures to ensure they could be used by others - I may update the project to incorporate all code into one terminal command.
